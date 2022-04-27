@@ -1,0 +1,7 @@
+[app]
+  port = 13333
+
+[redis]
+  url = "localhost:6379"
+  password = ""
+  db = 0
